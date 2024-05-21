@@ -5,13 +5,13 @@ date: 2024-05-22 00:10:01 +0100
 ---
 
 
-#Greetings!
+# Greetings!
 
 This is the first post ever made on the new version of the website.
 If you were one of the only 3 people (myself included) to see the old site, you might notice some changes.
 
 This new site is still on the same [GitHub Pages repo](https://github.com/milkydelta/milkydelta.github.io),
-but it is now powered by [Jekyll](https://jekylrb.com) and [the Chirpy theme] (https://github.com/cotes2020/chirpy-starter).
+but it is now powered by [Jekyll](https://jekylrb.com) and [the Chirpy theme](https://github.com/cotes2020/chirpy-starter).
 
 I put the old site's html page in a subdirectory of the repo.
 
