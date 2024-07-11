@@ -31,8 +31,9 @@ If the network router itself is analysing your traffic to put redirection blocka
 
 If you haven't touched the internet in a few years, you have likely been lucky enough to avoid the torrent of advertisements and sponsor spots for services like NordVPN, SurfShark, and PIA, so you might not know what a VPN is. The explanation I would give is that a VPN is a connection to a server somewhere that allows access to the network resources of that server. These resources can be other computers using the VPN, devices on the server's local network, or (importantly for us) the server's path to the internet. VPN connections are secured by encryption, so nobody between your device and the server can understand any of your communication.
 
-This is good. A successful connection to a VPN server would make my traffic entirely unintelligible to the network filter. I chose to first test WARP by cloudflare, which routes you through the nearest cloudlfare server. 
+This is good. A successful connection to a VPN server would make my traffic entirely unintelligible to the network filter. I chose to first test WARP by cloudflare, which routes you through the nearest cloudflare server. Those things are everywhere, so performance is usually very admirable.
 
+I installed the app and 
 <!---notes on mullvad
 notes on discovery of fortiguard lookup
 
