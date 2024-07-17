@@ -38,6 +38,7 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://milkydelta.moe
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/milkydelta # change to your github homepage
     # Uncomment below to add more social links
@@ -136,7 +137,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
+  enabled: false # the option for PWA feature (installable)
   cache:
     enabled: true # the option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
