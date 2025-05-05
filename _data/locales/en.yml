@@ -21,7 +21,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: I'm sorry, but I don't see that on my end.
+  no_results: I&apos;m sorry, but I don&apos;t see that on my end.
 
 panel:
   lastmod: Recently Updated
@@ -46,8 +46,8 @@ meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
   statement: >-
-    I see you've typed a URL up there and I'm not quite sure what you're on about.
-    Are you sure it's real? It's possible I've done something wrong here, but you should check again.
+    I see you&apos;ve typed a URL up there and I&apos;m not quite sure what you&apos;re on about.
+    Are you sure it&apos;s real? It&apos;s possible I&apos;ve done something wrong here, but you should check again.
 
 notification:
   update_found: A new version of content is available.
